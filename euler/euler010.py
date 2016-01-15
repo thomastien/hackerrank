@@ -1,14 +1,12 @@
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 
 
-
-
 samples = input()
 
 # primes: dictionary of prime numbers
 # inputs: list of parameters
 allnums = {}
-primes = []
+primes = {}
 inputs = []
 
 debug =0
@@ -34,7 +32,7 @@ for j in range(2, cap+1):
         # already seen this, skip
         continue
     else :
-        primes.append(j)
+        primes[j] = j
         allnums[j] = j
                                   
         for k in range (j+j, cap+1, j):
@@ -46,39 +44,22 @@ for j in range(2, cap+1):
 if debug:
     print "%i prime numbers were retrieved" % len(primes)
     #print primes
+    
 
-memoize = {}
-
-answer  = 0
-largest = 0
-ceiling = 0
-
-for value in sorted(inputs):
-    if memoize.get(value, 0) > 0:
-        if debug:
-            print "skiiping!"
-        next
-        
+testarray = []
+curtotal = 0
+for value in xrange(cap+1):
+    #if value in primes:
+    #    curtotal = curtotal + value
+    #print value
     try:
-        ceiling = max(k for k in memoize if k<=value)
+        if primes[value]:
+            #print "adding ", value, "to ", curtotal
+            curtotal = curtotal + value
     except:
-        ceiling = 0 
-    
-    
-    if ceiling in memoize:
-        if debug:
-            print "I've seen up to ", ceiling, 'before'
-            print "going to add ", memoize[ceiling]
-        d = [k for k in primes if k<=value and k>ceiling]
-        answer = sum(d) + memoize[ceiling]
-    else:
-        d = [k for k in primes if k<= value]
-        answer = sum(d)
-
-    memoize[value] = answer
+        pass
+    testarray.append(curtotal)
 
 
 for value in inputs:
-    print memoize[value]
-    
-  
+    print testarray[value]
