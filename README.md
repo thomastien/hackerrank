@@ -23,6 +23,8 @@ Waltz
 <li> <a href="http://view.vzaar.com/1318944/video?origin=iframe"> Whisk with Hover Exit
 </ol>
 
+----
+
 Tango
 <li> <a href="http://view.vzaar.com/1319295/video?origin=iframe"> Introduction to Position, Poise & Frame</a>
 <li> <a href="http://view.vzaar.com/1319292/video?origin=iframe"> Routine Demnstration</a>
@@ -41,8 +43,9 @@ Tango
 <li> <a href="http://view.vzaar.com/1329617/video?origin=iframe"> Fallaway Slip Pivot</a>
 <li> <a href="http://view.vzaar.com/1329588/video?origin=iframe"> Turning Five Step</a>
 <li> <a href="http://view.vzaar.com/1329579/video?origin=iframe"> Closed Promenade</a>
-
 </ol>
+
+----
 
 VW
 <li> <a href="http://view.vzaar.com/1319799/video?origin=iframe">Over view</a>
@@ -56,6 +59,8 @@ VW
 <li><a href="http://view.vzaar.com/1319701/video?origin=iframe">Natural Fleckrel</a>
 <li><a href="http://view.vzaar.com/1319699/video?origin=iframe">Dance Demo</a>
 </ol>
+
+----
 
 Foxtrot
 <li> <a href="http://view.vzaar.com/1319528/video?origin=iframe"> Introduction to Posture, Position & Frame</a>
@@ -76,5 +81,22 @@ Foxtrot
 <li> <a href="http://view.vzaar.com/1319332/video?origin=iframe"> Curving Reverse Wave</a>
 <li> <a href="http://view.vzaar.com/1319323/video?origin=iframe"> Viennese Cross with a Reverse Pivot</a>
 <li> <a href="http://view.vzaar.com/1319310/video?origin=iframe"> Contra Check</a>
+</ol>
+
+----
+Quickstep
+<li> <a href="http://view.vzaar.com/1319698/video?origin=iframe"> Introduction to Posture, Position & Frame
+<li> <a href="http://view.vzaar.com/1319688/video?origin=iframe"> Routine Demonstration
+<ol>
+<li> <a href="http://view.vzaar.com/1319686/video?origin=iframe"> Natural Spin Turn
+<li> <a href="http://view.vzaar.com/1319669/video?origin=iframe"> Progressive Chassé
+<li> <a href="http://view.vzaar.com/1319661/video?origin=iframe"> Quick Open Reverse with Slip Pivot Ending
+<li> <a href="http://view.vzaar.com/1319640/video?origin=iframe"> Cross Swivel
+<li> <a href="http://view.vzaar.com/1319630/video?origin=iframe"> Fishtail
+<li> <a href="http://view.vzaar.com/1319616/video?origin=iframe"> Heel Pull, Rumba Cross (2X)
+<li> <a href="http://view.vzaar.com/1319595/video?origin=iframe"> Running Right Turn
+<li> <a href="http://view.vzaar.com/1319579/video?origin=iframe"> Running Finish
+<li> <a href="http://view.vzaar.com/1319564/video?origin=iframe"> Hover Corté
+<li> <a href="http://view.vzaar.com/1319550/video?origin=iframe"> Tipsy Right, Left, Right & Forward Lock
 </ol>
 
