@@ -14,7 +14,7 @@ Waltz
 <li> <a href="http://view.vzaar.com/1319094/video?origin=iframe"> Wing
 <li> <a href="http://view.vzaar.com/1319080/video?origin=iframe"> Double Reverse Turn
 <li> <a href="http://view.vzaar.com/1319073/video?origin=iframe"> Contra Check with Recovery to Promenade Position
-<li> <a href="http://view.vzaar.com/1319054/video?origin=iframe"> Open Natural Turn
+<li> <a href="http://view.vzaar.com/1319064/video?origin=iframe"> Open Natural Turn
 <li> <a href="http://view.vzaar.com/1319055/video?origin=iframe"> Back Whisk with Slip Pivot Ending
 <li> <a href="http://view.vzaar.com/1319027/video?origin=iframe"> Open Impetus Turn
 <li> <a href="http://view.vzaar.com/1319008/video?origin=iframe"> Weave from Promenade Position
