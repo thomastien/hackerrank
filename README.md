@@ -3,12 +3,12 @@
 Practice for hackerrank
 
 
-h3. Waltz
+Waltz
 
-h3. Tango
-<ol>
+Tango
 <li> <a href="http://view.vzaar.com/1319295/video?origin=iframe"> Introduction to Position, Poise & Frame</a>
 <li> <a href="http://view.vzaar.com/1319292/video?origin=iframe"> Routine Demnstration</a>
+<ol>
 <li> <a href="http://view.vzaar.com/1319290/video?origin=iframe"> Two Walks</a>
 <li> <a href="http://view.vzaar.com/1319284/video?origin=iframe"> Progressive Side Step</a>
 <li> <a href="http://view.vzaar.com/1319276/video?origin=iframe"> Progressive Link</a>
@@ -26,10 +26,10 @@ h3. Tango
 
 </ol>
 
-h3. VW
-<ol>
+VW
 <li> <a href="http://view.vzaar.com/1319799/video?origin=iframe">Over view</a>
 <li> <a href="http://view.vzaar.com/1319754/video?origin=iframe">Routine Demo</a>
+<ol>
 <li> <a href="http://view.vzaar.com/1319751/video?origin=iframe">Natural Turn</a>
 <li> <a href="http://view.vzaar.com/1319734/video?origin=iframe">Reverse Turn</a>
 <li> <a href="http://view.vzaar.com/1319724/video?origin=iframe">Closed Change</a>
@@ -39,15 +39,15 @@ h3. VW
 <li><a href="http://view.vzaar.com/1319699/video?origin=iframe">Dance Demo</a>
 </ol>
 
-h3. Foxtrot
-<ol>
+Foxtrot
 <li> <a href="http://view.vzaar.com/1319528/video?origin=iframe"> Introduction to Posture, Position & Frame</a>
 <li> <a href="http://view.vzaar.com/1319522/video?origin=iframe"> Routine Demonstration</a>
+<ol>
 <li> <a href="http://view.vzaar.com/1319520/video?origin=iframe"> Feather Step</a>
 <li> <a href="http://view.vzaar.com/1319511/video?origin=iframe"> Reverse Turn</a>
 <li> <a href="http://view.vzaar.com/1319485/video?origin=iframe"> Feather Finish</a>
 <li> <a href="http://view.vzaar.com/1319452/video?origin=iframe"> Hover Telemark</a>
-<li> <a href="http://view.vzaar.com/1319436/video?origin=iframe"> 5. Natural Fallaway</a>
+<li> <a href="http://view.vzaar.com/1319436/video?origin=iframe"> Natural Fallaway</a>
 <li> <a href="http://view.vzaar.com/1319426/video?origin=iframe"> Outside Swivel</a>
 <li> <a href="http://view.vzaar.com/1319418/video?origin=iframe"> Basic Weave</a>
 <li> <a href="http://view.vzaar.com/1319405/video?origin=iframe"> Fallaway Slip Pivot</a>
