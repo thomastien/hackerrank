@@ -4,23 +4,23 @@ Practice for hackerrank
 
 
 Waltz
-<li> <a href="http://view.vzaar.com/1319170/video?origin=iframe"> Introduction to Posture, Poise & Frame
-<li> <a href="http://view.vzaar.com/1319165/video?origin=iframe"> Routine Demonstration
+<li> <a href="http://view.vzaar.com/1319170/video?origin=iframe"> Introduction to Posture, Poise & Frame</a>
+<li> <a href="http://view.vzaar.com/1319165/video?origin=iframe"> Routine Demonstration</a>
 <ol>
-<li> <a href="http://view.vzaar.com/1319162/video?origin=iframe"> Natural Turn
-<li> <a href="http://view.vzaar.com/1319150/video?origin=iframe"> Overturned Spin Turn
-<li> <a href="http://view.vzaar.com/1319133/video?origin=iframe"> Turning Lock
-<li> <a href="http://view.vzaar.com/1319120/video?origin=iframe"> Chassé Curving to Center
-<li> <a href="http://view.vzaar.com/1319094/video?origin=iframe"> Wing
-<li> <a href="http://view.vzaar.com/1319080/video?origin=iframe"> Double Reverse Turn
-<li> <a href="http://view.vzaar.com/1319073/video?origin=iframe"> Contra Check with Recovery to Promenade Position
-<li> <a href="http://view.vzaar.com/1319064/video?origin=iframe"> Open Natural Turn
-<li> <a href="http://view.vzaar.com/1319055/video?origin=iframe"> Back Whisk with Slip Pivot Ending
-<li> <a href="http://view.vzaar.com/1319027/video?origin=iframe"> Open Impetus Turn
-<li> <a href="http://view.vzaar.com/1319008/video?origin=iframe"> Weave from Promenade Position
-<li> <a href="http://view.vzaar.com/1319003/video?origin=iframe"> Hover Corté
-<li> <a href="http://view.vzaar.com/1318973/video?origin=iframe"> Outside Spin
-<li> <a href="http://view.vzaar.com/1318944/video?origin=iframe"> Whisk with Hover Exit
+<li> <a href="http://view.vzaar.com/1319162/video?origin=iframe"> Natural Turn</a>
+<li> <a href="http://view.vzaar.com/1319150/video?origin=iframe"> Overturned Spin Turn</a>
+<li> <a href="http://view.vzaar.com/1319133/video?origin=iframe"> Turning Lock</a>
+<li> <a href="http://view.vzaar.com/1319120/video?origin=iframe"> Chassé Curving to Center</a>
+<li> <a href="http://view.vzaar.com/1319094/video?origin=iframe"> Wing</a>
+<li> <a href="http://view.vzaar.com/1319080/video?origin=iframe"> Double Reverse Turn</a>
+<li> <a href="http://view.vzaar.com/1319073/video?origin=iframe"> Contra Check with Recovery to Promenade Position</a>
+<li> <a href="http://view.vzaar.com/1319064/video?origin=iframe"> Open Natural Turn</a>
+<li> <a href="http://view.vzaar.com/1319055/video?origin=iframe"> Back Whisk with Slip Pivot Ending</a>
+<li> <a href="http://view.vzaar.com/1319027/video?origin=iframe"> Open Impetus Turn</a>
+<li> <a href="http://view.vzaar.com/1319008/video?origin=iframe"> Weave from Promenade Position</a>
+<li> <a href="http://view.vzaar.com/1319003/video?origin=iframe"> Hover Corté</a>
+<li> <a href="http://view.vzaar.com/1318973/video?origin=iframe"> Outside Spin</a>
+<li> <a href="http://view.vzaar.com/1318944/video?origin=iframe"> Whisk with Hover Exit</a>
 </ol>
 
 ----
@@ -85,18 +85,18 @@ Foxtrot
 
 ----
 Quickstep
-<li> <a href="http://view.vzaar.com/1319698/video?origin=iframe"> Introduction to Posture, Position & Frame
-<li> <a href="http://view.vzaar.com/1319688/video?origin=iframe"> Routine Demonstration
+<li> <a href="http://view.vzaar.com/1319698/video?origin=iframe"> Introduction to Posture, Position & Frame</a>
+<li> <a href="http://view.vzaar.com/1319688/video?origin=iframe"> Routine Demonstration</a>
 <ol>
-<li> <a href="http://view.vzaar.com/1319686/video?origin=iframe"> Natural Spin Turn
-<li> <a href="http://view.vzaar.com/1319669/video?origin=iframe"> Progressive Chassé
-<li> <a href="http://view.vzaar.com/1319661/video?origin=iframe"> Quick Open Reverse with Slip Pivot Ending
-<li> <a href="http://view.vzaar.com/1319640/video?origin=iframe"> Cross Swivel
-<li> <a href="http://view.vzaar.com/1319630/video?origin=iframe"> Fishtail
-<li> <a href="http://view.vzaar.com/1319616/video?origin=iframe"> Heel Pull, Rumba Cross (2X)
-<li> <a href="http://view.vzaar.com/1319595/video?origin=iframe"> Running Right Turn
-<li> <a href="http://view.vzaar.com/1319579/video?origin=iframe"> Running Finish
-<li> <a href="http://view.vzaar.com/1319564/video?origin=iframe"> Hover Corté
-<li> <a href="http://view.vzaar.com/1319550/video?origin=iframe"> Tipsy Right, Left, Right & Forward Lock
+<li> <a href="http://view.vzaar.com/1319686/video?origin=iframe"> Natural Spin Turn</a>
+<li> <a href="http://view.vzaar.com/1319669/video?origin=iframe"> Progressive Chassé</a>
+<li> <a href="http://view.vzaar.com/1319661/video?origin=iframe"> Quick Open Reverse with Slip Pivot Ending</a>
+<li> <a href="http://view.vzaar.com/1319640/video?origin=iframe"> Cross Swivel</a>
+<li> <a href="http://view.vzaar.com/1319630/video?origin=iframe"> Fishtail</a>
+<li> <a href="http://view.vzaar.com/1319616/video?origin=iframe"> Heel Pull, Rumba Cross (2X)</a>
+<li> <a href="http://view.vzaar.com/1319595/video?origin=iframe"> Running Right Turn</a>
+<li> <a href="http://view.vzaar.com/1319579/video?origin=iframe"> Running Finish</a>
+<li> <a href="http://view.vzaar.com/1319564/video?origin=iframe"> Hover Corté</a>
+<li> <a href="http://view.vzaar.com/1319550/video?origin=iframe"> Tipsy Right, Left, Right & Forward Lock</a>
 </ol>
 
