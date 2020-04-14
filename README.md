@@ -4,6 +4,24 @@ Practice for hackerrank
 
 
 Waltz
+<li> <a href="http://view.vzaar.com/1319170/video?origin=iframe"> Introduction to Posture, Poise & Frame
+<li> <a href="http://view.vzaar.com/1319165/video?origin=iframe"> Routine Demonstration
+<ol>
+<li> <a href="http://view.vzaar.com/1319162/video?origin=iframe"> Natural Turn
+<li> <a href="http://view.vzaar.com/1319150/video?origin=iframe"> Overturned Spin Turn
+<li> <a href="http://view.vzaar.com/1319133/video?origin=iframe"> Turning Lock
+<li> <a href="http://view.vzaar.com/1319120/video?origin=iframe"> Chassé Curving to Center
+<li> <a href="http://view.vzaar.com/1319094/video?origin=iframe"> Wing
+<li> <a href="http://view.vzaar.com/1319080/video?origin=iframe"> Double Reverse Turn
+<li> <a href="http://view.vzaar.com/1319073/video?origin=iframe"> Contra Check with Recovery to Promenade Position
+<li> <a href="http://view.vzaar.com/1319054/video?origin=iframe"> Open Natural Turn
+<li> <a href="http://view.vzaar.com/1319055/video?origin=iframe"> Back Whisk with Slip Pivot Ending
+<li> <a href="http://view.vzaar.com/1319027/video?origin=iframe"> Open Impetus Turn
+<li> <a href="http://view.vzaar.com/1319008/video?origin=iframe"> Weave from Promenade Position
+<li> <a href="http://view.vzaar.com/1319003/video?origin=iframe"> Hover Corté
+<li> <a href="http://view.vzaar.com/1318973/video?origin=iframe"> Outside Spin
+<li> <a href="http://view.vzaar.com/1318944/video?origin=iframe"> Whisk with Hover Exit
+</ol>
 
 Tango
 <li> <a href="http://view.vzaar.com/1319295/video?origin=iframe"> Introduction to Position, Poise & Frame</a>
