@@ -1,6 +1,6 @@
 # hackerrank
 
-Practice for hackerrank
+
 
 
 Waltz
@@ -99,4 +99,49 @@ Quickstep
 <li> <a href="http://view.vzaar.com/1319564/video?origin=iframe"> Hover Corté</a>
 <li> <a href="http://view.vzaar.com/1319550/video?origin=iframe"> Tipsy Right, Left, Right & Forward Lock</a>
 </ol>
+
+----
+Arunas & Katusa
+
+Waltz
+
+<ul>
+<li> <a href="http://view.vzaar.com/13177826/video?origin=iframe">Posture & Hold</a>
+<li> <a href="http://view.vzaar.com/13177862/video?origin=iframe">Timing, Leg Action, Leg Xfer, Body action</a>
+<li> <a href="http://view.vzaar.com/13177919/video?origin=iframe">Positions</a>
+<li> <a href="http://view.vzaar.com/13177924/video?origin=iframe">Dance to Music</a>
+</ul>
+
+Tango
+<ul>
+<li> <a href="http://view.vzaar.com/13178089/video?origin=iframe">Posture & Hold</a>
+<li> <a href="http://view.vzaar.com/13178150/video?origin=iframe">Timing, Leg Action, Leg Xfer, Body action</a>
+<li> <a href="http://view.vzaar.com/13178220/video?origin=iframe">Types of Action</a>
+<li> <a href="http://view.vzaar.com/13178223/video?origin=iframe">Dance to Music</a>
+</ul>
+
+VW
+<ul>
+<li> <a href="http://view.vzaar.com/13178263/video?origin=iframe">Posture & Hold</a>
+<li> <a href="http://view.vzaar.com/13178306/video?origin=iframe">Timing Natural Turn</a>
+<li> <a href="http://view.vzaar.com/13178336/video?origin=iframe">Timing Reverse Turn</a>
+<li> <a href="http://view.vzaar.com/13178350/video?origin=iframe">Fleckrels
+<li> <a href="http://view.vzaar.com/13178352/video?origin=iframe">Dance to Music</a>
+</ul>
+
+Foxtrot
+<ul>
+<li> <a href="http://view.vzaar.com/13177960/video?origin=iframe">Posture & Hold</a>
+<li> <a href="http://view.vzaar.com/13177997/video?origin=iframe">Timing, Leg Action, Leg Xfer, Body action</a>
+<li> <a href="http://view.vzaar.com/13178004/video?origin=iframe">Heel Turns</a>
+<li> <a href="http://view.vzaar.com/13178036/video?origin=iframe">Line Figures</a>
+<li> <a href="http://view.vzaar.com/13178042/video?origin=iframe">Dance to Music</a>
+</ul>
+
+Quickstep
+<ul>
+<li> <a href="http://view.vzaar.com/13178380/video?origin=iframe">Posture & Dance Position</a>
+<li> <a href="http://view.vzaar.com/13178433/video?origin=iframe">Swing Figures</a>
+<li> <a href="http://view.vzaar.com/13178480/video?origin=iframe">Hopping Figure</a>
+<li> <a href="http://view.vzaar.com/13178487/video?origin=iframe">Dance to Music</a>
 
